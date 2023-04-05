@@ -1,0 +1,61 @@
+Parameter,Value,,
+mass (kg),250,,
+Drag coefficient,1.59,,
+Rolling friction,0.01,,
+Frontal Area,1.5,,
+Power train (kW),170,,
+Battery Capacity(kWh),7.5,,
+Battery Power (kW),140,,
+Battery weigth (kg),50,,
+Regenerative breaking MAX power (kW),120,,
+Regenerative breakign average efficiency,0.15,,
+Cooling System Average Power (W),60,,
+Lights average power (W),50,,
+Control system includign sensors (W),500,,
+Available area for PV cells (m2),1.5,,
+Solar cell efficiency (1000W/m2),0.22,,
+1,120,0.07,0
+acc/break,100,0.005,0
+2,80,0.025,0
+acc/break,95,0.005,0
+3,110,0.055,0
+acc/break,90,0.005,0
+4,70,0.06,0
+acc/break,65,0.005,0
+5,60,0.025,0
+acc/break,85,0.01,0
+6,110,0.04,0
+acc/break,75,0.01,0
+7,40,0.02,0
+acc/break,80,0.01,0
+8,120,0.06,0
+acc/break,90,0.01,0
+9,60,0.015,0
+acc/break,75,0.005,0
+10,90,0.03,0
+acc/break,100,0.005,0
+11,110,0.03,0
+acc/break,90,0.005,0
+12,70,0.015,0
+acc/break,95,0.005,0
+13,120,0.04,0
+acc/break,110,0.005,0
+14,90,0.02,0
+acc/break,80,0.01,0
+15,70,0.02,0
+acc/break,90,0.01,0
+16,110,0.035,0
+acc/break,90,0.01,0
+17,70,0.025,0
+acc/break,80,0.005,0
+18,90,0.03,0
+acc/break,100,0.005,0
+19,110,0.03,0
+acc/break,115,0.005,0
+20,120,0.04,0
+acc/break,85,0.01,0
+21,50,0.025,0
+acc/break,85,0.01,0
+Primary to Final Efficency Electricity,0.5,,
+CO2 emissions (kgCO2/kWh),0.1222,,
+Average irradiance (W/m2),600,,
