@@ -14,8 +14,8 @@ please install them by using "pip install" in cmd (recomended to "run as adminis
 
 this program doesn't need any arguments but after running it needs the input file name and directory.
 
-this project reads a single csv file, so it's necessary to compile every csv file in a single file but with all the information in seperate
-lines. In this ZIP i've made an example, "case2", .csv as an example.
+this project reads a single csv file, so it's necessary to compile all the information in seperate
+lines. As an example, case2.csv has the template one must use.
 
 the program has 3 racing methods, '1' is for the maximum velocity strategy without energy concerns, '0' as a low power method
 that the mantains the same speed along the whole track.
